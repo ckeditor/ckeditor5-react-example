@@ -10,6 +10,7 @@
     "@ckeditor/ckeditor5-dev-utils": "^12.0.1",
     "@ckeditor/ckeditor5-editor-classic": "^12.0.0",
     "@ckeditor/ckeditor5-essentials": "^11.0.0",
+    "@ckeditor/ckeditor5-mention": "^11.0.0",
     "@ckeditor/ckeditor5-paragraph": "^11.0.0",
     "@ckeditor/ckeditor5-react": "^1.1.2",
     "@ckeditor/ckeditor5-theme-lark": "^13.0.0",
